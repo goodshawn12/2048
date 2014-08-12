@@ -375,7 +375,7 @@ hr {
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
-    background: url(../tile-image/pig-11.jpg);
+    background: url(../tile-image/pig-12.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -384,7 +384,7 @@ hr {
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
-    background: url(../tile-image/pig-11.jpg);
+    background: url(../tile-image/pig-12.jpg);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
